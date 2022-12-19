@@ -1,0 +1,6 @@
+GET http://localhost:3000/espacio/getespaciosfilter?capacidad=20&tipo_espacio=2
+Content-Type: application/json
+
+{
+    
+}

@@ -1,0 +1,8 @@
+POST http://localhost:3000/semestre/createsemestre
+Content-Type: application/json
+
+{
+    "nombre":"2023-1",
+    "fechaInicio":"2022-08-08",
+    "fechaFinal":"2022-12-24"
+}

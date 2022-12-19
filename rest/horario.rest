@@ -1,0 +1,6 @@
+GET http://localhost:3000/horario/gethorariosfinal
+Content-Type: application/json
+
+{
+   
+}

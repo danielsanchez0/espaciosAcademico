@@ -1,0 +1,9 @@
+POST http://localhost:3000/horario/createhorario
+Content-Type: application/json
+
+{
+    "dia":"lunes",
+    "hora_inicio":"9:00:00",
+    "hora_final":"9:59:00",
+    "espacio_id":1
+}

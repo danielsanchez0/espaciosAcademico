@@ -1,0 +1,6 @@
+GET http://localhost:3000/departamento/getmaterias
+Content-Type: application/json
+
+{
+    "departamento_id": 2
+}

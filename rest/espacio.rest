@@ -1,0 +1,9 @@
+GET http://localhost:3000/espacio/gethorarios
+Content-Type: application/json
+
+{
+    "sala_id": 1,
+    "semestre": "2023-1",
+    "year": 2023,
+    "month": 2
+}

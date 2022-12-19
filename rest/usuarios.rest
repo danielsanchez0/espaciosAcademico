@@ -1,0 +1,7 @@
+POST http://localhost:3000/users/signin
+Content-Type: application/json
+
+{
+    "email":"dan.1701610339@ucaldas.edu.co",
+    "password":"12345"
+}

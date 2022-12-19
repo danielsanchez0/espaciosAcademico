@@ -1,0 +1,25 @@
+{
+  "development": {
+    "username": "umsa7lpcfzoj6swh",
+    "password": "aMwLXN5JJMxjsLvErXj9",
+    "database": "bzdmbcmevycz6ewoldct",
+    "host": "bzdmbcmevycz6ewoldct-mysql.services.clever-cloud.com",
+    "port": 3306,
+    "dialect": "mysql",
+    "timezone": "-05:00"
+  },
+  "test": {
+    "username": "root",
+    "password": null,
+    "database": "espaciosUniversidad",
+    "host": "127.0.0.1",
+    "dialect": "mysql"
+  },
+  "production": {
+    "username": "root",
+    "password": null,
+    "database": "espaciosUniversidad",
+    "host": "127.0.0.1",
+    "dialect": "mysql"
+  }
+}

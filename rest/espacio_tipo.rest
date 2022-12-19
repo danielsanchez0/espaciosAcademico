@@ -1,0 +1,6 @@
+GET http://localhost:3000/espacio/getespaciostipo
+Content-Type: application/json
+
+{
+    "tipo_espacio_id": 2
+}

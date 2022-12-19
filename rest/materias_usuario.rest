@@ -1,0 +1,6 @@
+GET http://localhost:3000/materia/getmismaterias
+Content-Type: application/json
+
+{
+    
+}

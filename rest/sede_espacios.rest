@@ -1,0 +1,6 @@
+GET http://localhost:3000/sede/getespacios
+Content-Type: application/json
+
+{
+    "sede_id": 2
+}
